@@ -3,3 +3,4 @@ git status -> mostra o status do trabalho
 git add nome_arquivo -> adiciona arquivo para ser commitado
 git commit -m "msg" faz commit do que esta em espera
 git log -> mostra todo histórico de commit
+git reset nome_arquivo -> retira da espera do commit (git add)
