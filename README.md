@@ -12,3 +12,11 @@ Além disso, vamos trabalhar com GitFlow e VSCODE
 
 https://youtube.com/playlist?list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL\&si=AmHHd5R3qCKHJeMe
 
+
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Participantes
+
+-Rafael
+
